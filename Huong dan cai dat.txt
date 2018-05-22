@@ -1,7 +1,0 @@
-1. iis
-2. Framework 4.0
-3. MVC 3
-4. sql 2005
-5. Doi port trang web 80 -> 8080
-6. Vao CMD paste dong: 
-%windir%\Microsoft.NET\Framework\v4.0.30319\aspnet_regiis.exe -i
