@@ -1,0 +1,21 @@
+﻿<frameTree version="0.94.51006.1"><frameException type="System.Exception"><tag exceptionState="unexpected"><generatedTestRef idref="ccfb1d26-dd0e-4ca8-98bc-5e6b5002d484"/>
+</tag>
+<frameNode><frame value="  at MetaProgram.Check(String) in c:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Data\secret_project\Students\meta_projectuser\MetaProgram.cs(14)" method="MetaProgram.Check(String)" offset="36" file="c:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Data\secret_project\Students\meta_projectuser\MetaProgram.cs" line="14"><method assemblyName="meta_projectuser" name="Check" static="true" token="6000005"><declaringType assemblyName="meta_projectuser" name="MetaProgram" token="2000004" namespace="MetaProject"/>
+<parameter name="x" position="0"><type spec="Class"><definition assemblyName="mscorlib" name="String" token="2000073" namespace="System"/>
+</type>
+</parameter>
+</method>
+<beforeSource><![CDATA[		[PexMethod(TestEmissionFilter=PexTestEmissionFilter.All)]
+		public static void Check(string x){
+			if (Puzzle1(x) != Puzzle2(x)){]]></beforeSource>
+<source><![CDATA[				throw new Exception("Submission failed");]]></source>
+<afterSource><![CDATA[			}
+		}
+  public static string Puzzle1(string x) {]]></afterSource>
+</frame>
+<tag exceptionState="unexpected"><generatedTestRef idref="ccfb1d26-dd0e-4ca8-98bc-5e6b5002d484"/>
+<generatedTestRef idref="f87f369f-0e3b-4209-9022-396dc587c8f0"/>
+</tag>
+</frameNode>
+</frameException>
+</frameTree>

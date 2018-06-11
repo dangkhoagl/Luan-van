@@ -1,0 +1,2 @@
+projectNo	#match	#all	metric2
+user	1	3	0.333333333333333

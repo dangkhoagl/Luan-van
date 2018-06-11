@@ -1,0 +1,124 @@
+﻿<documents created="2018-06-08 07:53:46Z"><document src="c:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Data\secret_project\Students\meta_projectuser\MetaProgram.cs" renderPrefix="s0"><chunk hits="-1" domain="unknown"><source><![CDATA[using System.Text.RegularExpressions;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Microsoft.Pex.Framework;
+using Microsoft.Pex.Framework.Settings;
+namespace MetaProject{
+	[PexClass(typeof(MetaProgram))]
+	public class MetaProgram{
+		[PexMethod(TestEmissionFilter=PexTestEmissionFilter.All)]
+		public static void Check(string x)]]></source>
+</chunk>
+<method name="Check" namespace="MetaProject" type="MetaProject.MetaProgram" typeName="MetaProgram" token="6000005" module="meta_projectuser.dll"><hits><hit index="0" value="1"/>
+<hit index="1" value="1"/>
+<hit index="2" value="1"/>
+<hit index="3" value="1"/>
+<hit index="4" value="1"/>
+<hit index="5" value="1"/>
+<hit index="6" value="1"/>
+<hit index="7" value="1"/>
+<hit index="8" value="1"/>
+<hit index="10" value="1"/>
+<hit index="11" value="1"/>
+<hit index="12" value="1"/>
+<hit index="13" value="1"/>
+</hits>
+<coverage domain="usercodeundertest" unit="block" covered="7" total="7" coveredRatio="1"/>
+</method>
+<chunk hits="1" offset="0000" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+			]]></source>
+</chunk>
+<chunk hits="1" offset="0001" domain="usercodeundertest"><source><![CDATA[if (Puzzle1(x) != Puzzle2(x))]]></source>
+</chunk>
+<chunk hits="1" offset="0019" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+				]]></source>
+</chunk>
+<chunk hits="1" offset="001a" domain="usercodeundertest"><source><![CDATA[throw new Exception("Submission failed");]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+			}
+		]]></source>
+</chunk>
+<chunk hits="1" offset="0025" domain="usercodeundertest"><source><![CDATA[}]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+  public static string Puzzle1(string x) ]]></source>
+</chunk>
+<method name="Puzzle1" namespace="MetaProject" type="MetaProject.MetaProgram" typeName="MetaProgram" token="6000006" module="meta_projectuser.dll"><hits><hit index="0" value="1"/>
+<hit index="1" value="1"/>
+<hit index="2" value="1"/>
+<hit index="3" value="1"/>
+<hit index="4" value="1"/>
+<hit index="5" value="1"/>
+<hit index="6" value="1"/>
+<hit index="7" value="1"/>
+<hit index="8" value="1"/>
+</hits>
+<coverage domain="usercodeundertest" unit="block" covered="7" total="7" coveredRatio="1"/>
+</method>
+<chunk hits="1" offset="0000" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        ]]></source>
+</chunk>
+<chunk hits="1" offset="0001" domain="usercodeundertest"><source><![CDATA[if (x == "Hello")]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[ ]]></source>
+</chunk>
+<chunk hits="1" offset="0013" domain="usercodeundertest"><source><![CDATA[return "OK";]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        ]]></source>
+</chunk>
+<chunk hits="1" offset="001b" domain="usercodeundertest"><source><![CDATA[if (x == "Demo")]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[ ]]></source>
+</chunk>
+<chunk hits="1" offset="002d" domain="usercodeundertest"><source><![CDATA[return "OK";]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        ]]></source>
+</chunk>
+<chunk hits="1" offset="0035" domain="usercodeundertest"><source><![CDATA[return "NOT OK";]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+  ]]></source>
+</chunk>
+<chunk hits="3" offset="003d" domain="usercodeundertest"><source><![CDATA[}]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+
+    public static string Puzzle2(string x)
+    ]]></source>
+</chunk>
+<method name="Puzzle2" namespace="MetaProject" type="MetaProject.MetaProgram" typeName="MetaProgram" token="6000007" module="meta_projectuser.dll"><hits><hit index="0" value="1"/>
+</hits>
+<coverage domain="usercodeundertest" unit="block" covered="1" total="1" coveredRatio="1"/>
+</method>
+<chunk hits="1" offset="0000" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        
+        ]]></source>
+</chunk>
+<chunk hits="1" offset="0001" domain="usercodeundertest"><source><![CDATA[return "NOT OK";]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+    ]]></source>
+</chunk>
+<chunk hits="1" offset="0009" domain="usercodeundertest"><source><![CDATA[}]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+
+	}
+}
+]]></source>
+</chunk>
+</document>
+</documents>

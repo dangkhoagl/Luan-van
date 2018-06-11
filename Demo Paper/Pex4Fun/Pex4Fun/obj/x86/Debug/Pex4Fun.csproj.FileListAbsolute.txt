@@ -1,0 +1,60 @@
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe.config
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.pdb
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Moles.Framework.dll
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.ExtendedReflection.xml
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Moles.Framework.xml
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.csprojResolveAssemblyReference.cache
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.exe
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\lsh891023-behavioral-similarity-5f9a531bf55f\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.pdb
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe.config
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.exe
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.pdb
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.pdb
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Moles.Framework.dll
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.ExtendedReflection.xml
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Moles.Framework.xml
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.csprojResolveAssemblyReference.cache
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe.config
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.pdb
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Moles.Framework.dll
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.ExtendedReflection.xml
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Moles.Framework.xml
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo Paper\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.csprojResolveAssemblyReference.cache
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo Paper\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.exe
+C:\Users\photocopy\Dropbox\Thac si\Luận văn\Projects\Demo Paper\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.pdb
+C:\Users\photocopy\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe.config
+C:\Users\photocopy\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe
+C:\Users\photocopy\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.pdb
+C:\Users\photocopy\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.ExtendedReflection.xml
+C:\Users\photocopy\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\photocopy\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Moles.Framework.xml
+C:\Users\photocopy\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.csprojResolveAssemblyReference.cache
+C:\Users\photocopy\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.exe
+C:\Users\photocopy\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.pdb
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.pdb
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.pdb
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.ExtendedReflection.xml
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Moles.Framework.xml
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe.config
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.exe
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Pex.exe
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\nunit.framework.dll
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\pex.exe
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.ExtendedReflection.Z32Solver.dll
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Microsoft.Z3.dll
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\xunit.dll
