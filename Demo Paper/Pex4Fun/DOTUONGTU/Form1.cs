@@ -51,34 +51,46 @@ namespace DOTUONGTU
         {
             InitializeComponent();
         }
-
+        string topDir = @"C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Data";
         private void button1_Click(object sender, EventArgs e)
         {
-            //string topDir = @"D:\Experiment\data-cleaner\apcs";
-            string topDir = @"C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Data";
-            FileModifier.MakeProjects(topDir);
-            FileModifier.MakeSecretProjects(topDir);
+            try {
+                string topDir = @"C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Data";
+                FileModifier.MakeProjects(topDir);
+                FileModifier.MakeSecretProjects(topDir);
 
-            BuildDirectory.BuildProjects(topDir, true);
-            BuildDirectory.BuildSecretProjects(topDir, true);
+                BuildDirectory.BuildProjects(topDir, true);
+                BuildDirectory.BuildSecretProjects(topDir, true);
 
-            FileModifier.MakeMetaProjects(topDir);
-            BuildDirectory.BuildMetaProjects(topDir, true);
-            BuildDirectory.CheckNotBuiltProjects(topDir);
+                FileModifier.MakeMetaProjects(topDir);
+                BuildDirectory.BuildMetaProjects(topDir, true);
+                BuildDirectory.CheckNotBuiltProjects(topDir);
 
-            RunPex.RunPexOnSecretProjects(topDir);
-            RunPex.RunPexOnMetaProjects(topDir);
+                RunPex.RunPexOnSecretProjects(topDir);
+                RunPex.RunPexOnMetaProjects(topDir);
 
-            ExtractPexResults.ExtractPexTests(topDir);
+                ExtractPexResults.ExtractPexTests(topDir);
 
-            Metrics.ComputeMetric1(topDir);
-            Metrics.ComputeMetric2(topDir);
+                Metrics.ComputeMetric1(topDir);
+                Metrics.ComputeMetric2(topDir);
 
-            RandomTestGenerator.GenerateRandomTests(topDir, 200);
-            Metrics.ComputeMetric3(topDir);
+                RandomTestGenerator.GenerateRandomTests(topDir, 200);
+                Metrics.ComputeMetric3(topDir);
 
-            Console.WriteLine(Utility.GetNumOfStudent(topDir));
-            Console.WriteLine(Utility.GetNumOfSubmissions(topDir));
+                //Console.WriteLine(Utility.GetNumOfStudent(topDir));
+                //Console.WriteLine(Utility.GetNumOfSubmissions(topDir);)
+
+                lb_thongbao.Text = "Đã hoàn thành.";
+            }
+            catch
+            {
+
+                lb_thongbao.Text = "Code upload bị lỗi, kiểm tra lại...";
+            }           
+            
+            //bt_rs.Enabled = true;
+            //bt_sse.Enabled = true;
+            //bt_pse.Enabled = true;
         }
 
         private void bt_upload_solution_Click(object sender, EventArgs e)
@@ -91,7 +103,7 @@ namespace DOTUONGTU
 
             op1.Filter = "allfiles|*.xls";
 
-            textBox1.Text = op1.FileName;
+            
 
             int count = 0;
 
@@ -103,13 +115,85 @@ namespace DOTUONGTU
 
                 FName = s.Split('\\');
 
-                File.Copy(s, "C:\\file\\" + FName[FName.Length - 1]);
+                File.Copy(s, topDir + "\\secret_project\\" + FName[FName.Length - 1],true);
 
                 count++;
+
+                textBox1.Text = FName[FName.Length - 1];
 
             }
 
             MessageBox.Show(Convert.ToString(count) + " File(s) copied");
+        }
+
+        private void bt_upload_users_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog op1 = new OpenFileDialog();
+
+            op1.Multiselect = true;
+
+            op1.ShowDialog();
+
+            op1.Filter = "allfiles|*.xls";           
+
+            int count = 0;
+
+            string[] FName;
+
+            DirectoryInfo di = new DirectoryInfo(topDir + @"\secret_project\Students\");
+
+            foreach (FileInfo file in di.GetFiles())
+            {
+                file.Delete();
+            }
+            foreach (DirectoryInfo dir in di.GetDirectories())
+            {
+                dir.Delete(true);
+            }
+
+            tb_submittions.Text = "";
+            foreach (string s in op1.FileNames)
+
+            {
+
+                FName = s.Split('\\');
+
+                File.Copy(s, topDir + "\\secret_project\\Students\\" + FName[FName.Length - 1], true);
+
+                count++;
+
+                tb_submittions.Text += FName[FName.Length - 1] + " ";
+
+            }
+
+            MessageBox.Show(Convert.ToString(count) + " File(s) copied");
+        }
+
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //bt_rs.Enabled = false;
+            //bt_sse.Enabled = false;
+            //bt_pse.Enabled = false;
+            lb_thongbao.Text = "...";
+        }
+
+        private void bt_rs_Click(object sender, EventArgs e)
+        {
+            RS form_rs = new RS();
+            form_rs.Show();
+        }
+
+        private void bt_sse_Click(object sender, EventArgs e)
+        {
+            SSE fr = new SSE();
+            fr.Show();
+        }
+
+        private void bt_pse_Click(object sender, EventArgs e)
+        {
+            PSE fr = new PSE();
+            fr.Show();
         }
     }
 }

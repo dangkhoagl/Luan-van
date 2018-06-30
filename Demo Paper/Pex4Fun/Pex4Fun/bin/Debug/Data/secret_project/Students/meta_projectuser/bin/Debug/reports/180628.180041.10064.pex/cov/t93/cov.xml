@@ -1,0 +1,140 @@
+﻿<documents created="2018-06-28 11:00:45Z"><document src="c:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\Pex4Fun\bin\Debug\Data\secret_project\Students\meta_projectuser\MetaProgram.cs" renderPrefix="s0"><chunk hits="-1" domain="unknown"><source><![CDATA[using System.Text.RegularExpressions;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Microsoft.Pex.Framework;
+using Microsoft.Pex.Framework.Settings;
+namespace MetaProject{
+	[PexClass(typeof(MetaProgram))]
+	public class MetaProgram{
+		[PexMethod(TestEmissionFilter=PexTestEmissionFilter.All)]
+		public static void Check(int x)]]></source>
+</chunk>
+<method name="Check" namespace="MetaProject" type="MetaProject.MetaProgram" typeName="MetaProgram" token="6000005" module="meta_projectuser.dll"><hits><hit index="0" value="1"/>
+<hit index="1" value="1"/>
+<hit index="2" value="1"/>
+<hit index="3" value="1"/>
+<hit index="4" value="1"/>
+<hit index="5" value="1"/>
+<hit index="6" value="1"/>
+<hit index="8" value="1"/>
+<hit index="9" value="1"/>
+<hit index="10" value="1"/>
+<hit index="11" value="1"/>
+</hits>
+<coverage domain="usercodeundertest" unit="block" covered="6" total="6" coveredRatio="1"/>
+</method>
+<chunk hits="1" offset="0000" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+			]]></source>
+</chunk>
+<chunk hits="1" offset="0001" domain="usercodeundertest"><source><![CDATA[if (Puzzle1(x) != Puzzle2(x))]]></source>
+</chunk>
+<chunk hits="1" offset="0013" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+				]]></source>
+</chunk>
+<chunk hits="1" offset="0014" domain="usercodeundertest"><source><![CDATA[throw new Exception("Submission failed");]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+			}
+		]]></source>
+</chunk>
+<chunk hits="1" offset="001f" domain="usercodeundertest"><source><![CDATA[}]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+  public static int Puzzle1(int x) ]]></source>
+</chunk>
+<method name="Puzzle1" namespace="MetaProject" type="MetaProject.MetaProgram" typeName="MetaProgram" token="6000006" module="meta_projectuser.dll"><hits><hit index="0" value="1"/>
+<hit index="1" value="1"/>
+<hit index="2" value="1"/>
+<hit index="3" value="1"/>
+<hit index="4" value="1"/>
+</hits>
+<coverage domain="usercodeundertest" unit="block" covered="5" total="5" coveredRatio="1"/>
+</method>
+<chunk hits="1" offset="0000" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+	]]></source>
+</chunk>
+<chunk hits="1" offset="0001" domain="usercodeundertest"><source><![CDATA[if(x>0 && x<100)]]></source>
+</chunk>
+<chunk hits="1" offset="0015" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        ]]></source>
+</chunk>
+<chunk hits="1" offset="0016" domain="usercodeundertest"><source><![CDATA[return x - 10;]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+	}
+	else ]]></source>
+</chunk>
+<chunk hits="1" offset="001d" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        	]]></source>
+</chunk>
+<chunk hits="1" offset="001e" domain="usercodeundertest"><source><![CDATA[return x;]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[ 
+	}
+  ]]></source>
+</chunk>
+<chunk hits="2" offset="0022" domain="usercodeundertest"><source><![CDATA[}]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+
+    public static int Puzzle2(int x)    ]]></source>
+</chunk>
+<method name="Puzzle2" namespace="MetaProject" type="MetaProject.MetaProgram" typeName="MetaProgram" token="6000007" module="meta_projectuser.dll"><hits><hit index="0" value="1"/>
+<hit index="1" value="1"/>
+<hit index="2" value="1"/>
+<hit index="3" value="1"/>
+<hit index="4" value="1"/>
+</hits>
+<coverage domain="usercodeundertest" unit="block" covered="5" total="5" coveredRatio="1"/>
+</method>
+<chunk hits="1" offset="0000" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+	]]></source>
+</chunk>
+<chunk hits="1" offset="0001" domain="usercodeundertest"><source><![CDATA[if(x>0 && x<100)]]></source>
+</chunk>
+<chunk hits="1" offset="0015" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        ]]></source>
+</chunk>
+<chunk hits="1" offset="0016" domain="usercodeundertest"><source><![CDATA[return x - 10;]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+	}
+	else ]]></source>
+</chunk>
+<chunk hits="1" offset="001d" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        	]]></source>
+</chunk>
+<chunk hits="1" offset="001e" domain="usercodeundertest"><source><![CDATA[return x-20;]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[ 
+	}
+    ]]></source>
+</chunk>
+<chunk hits="2" offset="0025" domain="usercodeundertest"><source><![CDATA[}]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+
+	}
+}
+]]></source>
+</chunk>
+</document>
+</documents>

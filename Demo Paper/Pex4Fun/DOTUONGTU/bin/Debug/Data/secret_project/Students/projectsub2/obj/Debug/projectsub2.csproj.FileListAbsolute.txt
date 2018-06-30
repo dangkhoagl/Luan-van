@@ -1,0 +1,5 @@
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Data\secret_project\Students\projectsub2\bin\Debug\projectsub2.dll
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Data\secret_project\Students\projectsub2\bin\Debug\projectsub2.pdb
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Data\secret_project\Students\projectsub2\obj\Debug\projectsub2.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Data\secret_project\Students\projectsub2\obj\Debug\projectsub2.dll
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Data\secret_project\Students\projectsub2\obj\Debug\projectsub2.pdb

@@ -423,14 +423,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DOTUONGTU.exe" size="307664">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DOTUONGTU.exe" size="316368">
       <assemblyIdentity name="DOTUONGTU" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>049DSq+zLdJOE6bluIQDno2CUKY6fbceCvhri8A4dBk=</dsig:DigestValue>
+        <dsig:DigestValue>Zs5jmFHDpHFE2t+4/tX79NEjBpp4JHm2MhpO/PnCi3U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -599,13 +599,13 @@
       <dsig:DigestValue>FdHa0zhN23XlPOo5dlk4ZnEFUXKUPq5zfhgXbbcvJc8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="assemblyFileTemplate.txt" size="1374">
+  <file name="assemblyFileTemplate.txt" size="1410">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ZkjloPNh+KQWl6sbiq+KeJDVpPgHU/CYEM31B7wpkw4=</dsig:DigestValue>
+      <dsig:DigestValue>wdwqr2zF6WPOGUIMXRRCudlZMlfSOAvtFowRTJaKCeA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DOTUONGTU.exe.config" size="189">
@@ -617,13 +617,13 @@
       <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="projectFileTemplate.txt" size="2440">
+  <file name="projectFileTemplate.txt" size="2493">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AGyHtx4nxdIOHOjK5gx1FlYfrJykLg6YTnacKEtSuW8=</dsig:DigestValue>
+      <dsig:DigestValue>fQQAFc5OT0WsrmooLrXKTU1sDixm44OHV3xvRxgnRYU=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

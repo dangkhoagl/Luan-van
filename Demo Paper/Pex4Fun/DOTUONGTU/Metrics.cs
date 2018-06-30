@@ -16,7 +16,7 @@ namespace DOTUONGTU
                 foreach (var studentDir in Directory.GetDirectories(taskDir))
                 {
                     StringBuilder sb = new StringBuilder();
-                    sb.AppendLine("projectNo\t#pass\t#notpass\t#all\tmetric1");
+                    sb.AppendLine("Students\tPass\tNotpass\tAll\tRS");
                     if (studentDir.EndsWith("secret_project"))
                         continue;
                     foreach (var projectDir in Directory.GetDirectories(studentDir))
@@ -81,7 +81,7 @@ namespace DOTUONGTU
                 foreach (var studentDir in Directory.GetDirectories(taskDir))
                 {
                     StringBuilder sb = new StringBuilder();
-                    sb.AppendLine("projectNo\t#match\t#all\tmetric2");
+                    sb.AppendLine("Students\tPass\tAll\tSSE");
                     if (studentDir.EndsWith("secret_project"))
                         continue;
                     foreach (var projectDir in Directory.GetDirectories(studentDir))
@@ -216,7 +216,7 @@ namespace DOTUONGTU
                 foreach (var studentDir in Directory.GetDirectories(taskDir))
                 {
                     StringBuilder sb = new StringBuilder();
-                    sb.AppendLine("projectNo\t#match\t#all\tmetric3");
+                    sb.AppendLine("Students\tPass\tAll\tPSE");
                     if (studentDir.EndsWith("secret_project"))
                         continue;
                     foreach (var projectDir in Directory.GetDirectories(studentDir))

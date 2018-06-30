@@ -5,9 +5,12 @@ using System.Text;
 
 
 public class Program {
-  public static string Puzzle(string x) {
-        if (x == "Hello") return "OK";
-        if (x == "Demo") return "OK";
-        return "NOT OK";
+  public static int Puzzle(int x) {
+	if(x>0 && x<100){
+        return x - 10;
+	}
+	else {
+        	return x; 
+	}
   }
 }

@@ -1,0 +1,76 @@
+﻿<documents created="2018-06-30 07:36:22Z"><document src="c:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Data\secret_project\secret_project\solution.cs" renderPrefix="s0"><chunk hits="-1" domain="unknown"><source><![CDATA[using Microsoft.Pex.Framework;
+using Microsoft.Pex.Framework.Settings;
+using System.Text.RegularExpressions;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+namespace Solution {
+[PexClass(typeof(Program))]
+public class Program {
+    [PexMethod(TestEmissionFilter=PexTestEmissionFilter.All)]
+    public static int Puzzle(byte number) ]]></source>
+</chunk>
+<method name="Puzzle" namespace="Solution" type="Solution.Program" typeName="Program" token="6000001" module="secret_project.dll"><hits><hit index="0" value="1"/>
+<hit index="1" value="8"/>
+<hit index="2" value="8"/>
+<hit index="3" value="8"/>
+<hit index="4" value="1"/>
+<hit index="5" value="7"/>
+<hit index="6" value="8"/>
+</hits>
+<coverage domain="usercodeundertest" unit="block" covered="5" total="5" coveredRatio="1"/>
+</method>
+<chunk hits="1" offset="0000" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        ]]></source>
+</chunk>
+<chunk hits="1" offset="0001" domain="usercodeundertest"><source><![CDATA[int ct = 0;]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        ]]></source>
+</chunk>
+<chunk hits="16" offset="001e" domain="usercodeundertest"><source><![CDATA[while (number != 0)]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[ ]]></source>
+</chunk>
+<chunk hits="8" offset="0005" domain="usercodeundertest"><source><![CDATA[{]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+            ]]></source>
+</chunk>
+<chunk hits="8" offset="0006" domain="usercodeundertest"><source><![CDATA[if (number % 2 > 0)]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[ ]]></source>
+</chunk>
+<chunk hits="8" offset="0013" domain="usercodeundertest"><source><![CDATA[ct++;]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+            ]]></source>
+</chunk>
+<chunk hits="15" offset="0017" domain="usercodeundertest"><source><![CDATA[number >>= 1;]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        ]]></source>
+</chunk>
+<chunk hits="15" offset="001d" domain="usercodeundertest"><source><![CDATA[}]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+        ]]></source>
+</chunk>
+<chunk hits="1" offset="0029" domain="usercodeundertest"><source><![CDATA[return ct;]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+    ]]></source>
+</chunk>
+<chunk hits="1" offset="002d" domain="usercodeundertest"><source><![CDATA[}]]></source>
+</chunk>
+<chunk hits="-1" domain="unknown"><source><![CDATA[
+}
+
+}
+]]></source>
+</chunk>
+</document>
+</documents>

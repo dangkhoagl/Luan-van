@@ -64,3 +64,72 @@ C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bi
 C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
 C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
 C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.Frm_Main.resources
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DOTUONGTU.exe.config
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.exe
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.pdb
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DOTUONGTU.exe.manifest
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DOTUONGTU.application
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DOTUONGTU.exe
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DOTUONGTU.pdb
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.Data.v16.1.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.Utils.v16.1.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Microsoft.ExtendedReflection.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Microsoft.ExtendedReflection.Z32Solver.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Microsoft.Moles.Framework.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Microsoft.Pex.exe
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Microsoft.Pex.Framework.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Microsoft.Z3.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\mscorlib.Behaviors.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\nunit.framework.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\pex.exe
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Pex.Xunit.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Pex4Fun.vshost.exe
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\xunit.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.Data.v16.1.xml
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.Utils.v16.1.xml
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Microsoft.ExtendedReflection.xml
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Microsoft.Moles.Framework.xml
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\Microsoft.Pex.Framework.xml
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.csprojResolveAssemblyReference.cache
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.Form1.resources
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.Frm_Main.resources
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.Properties.Resources.resources
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.csproj.GenerateResource.Cache
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.exe.manifest
+Z:\Luan-van\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.application
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.RS.resources
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.SSE.resources
+C:\Users\admin\Dropbox\Thac si\Luan van\Projects\Demo Paper\Pex4Fun\DOTUONGTU\obj\Debug\DOTUONGTU.PSE.resources

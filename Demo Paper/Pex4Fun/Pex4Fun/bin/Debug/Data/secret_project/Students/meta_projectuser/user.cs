@@ -12,10 +12,13 @@ namespace Submission {
 [PexClass(typeof(Program))]
 public class Program {
     [PexMethod(TestEmissionFilter=PexTestEmissionFilter.All)]
-    public static string Puzzle(string x)
-    {
-        
-        return "NOT OK";
+    public static int Puzzle(int x)    {
+	if(x>0 && x<100){
+        return x - 10;
+	}
+	else {
+        	return x-20; 
+	}
     }
 }
     

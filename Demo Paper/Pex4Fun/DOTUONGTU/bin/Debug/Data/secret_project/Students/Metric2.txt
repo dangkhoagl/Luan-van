@@ -1,0 +1,3 @@
+Students	Pass	All	SSE
+sub1	4	256	0.015625
+sub2	256	256	1
